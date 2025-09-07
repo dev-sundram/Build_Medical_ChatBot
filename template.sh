@@ -1,3 +1,5 @@
+# to run this file use ./template.sh
+
 # Creating directory
 mkdir -p src
 mkdir -p research
@@ -9,7 +11,7 @@ touch src/prompt.py
 touch .env
 touch setup.py
 touch app.py
-touch research/trails.py
+touch research/trails.ipynb
 touch requirements.txt
 
 echo "Directory and file structure created successfully."
